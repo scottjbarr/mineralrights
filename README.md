@@ -55,7 +55,7 @@ mineralrights
 
 ### Binary Only
 
-See [Releases](./releases)
+Find binary only installs in [Releases](../../releases)
 
 ## References
 
