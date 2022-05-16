@@ -25,4 +25,4 @@ dist-windows: ensure-dist
 	rm $(TMP_BUILD)
 
 clean:
-	rm -rf tmp
+	rm -rf dist
