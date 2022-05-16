@@ -64,3 +64,4 @@ Find binary only installs in [Releases](../../releases)
 - http://www.retro8bitcomputers.co.uk/magazines/GetMagazine?name=Your%20Computer
 - https://archive.org/stream/your-computer-magazine-1985-07/YourComputer_1985_07_djvu.txt
 - https://www.c64-wiki.com/wiki/control_character
+- https://store.kde.org/p/1219659/
